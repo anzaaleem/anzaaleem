@@ -1,10 +1,10 @@
 
 <h1 align="center">Hey 👋, I'm Anza Aleem</h1>
-<h3 align="center">A passionate frontend web developer</h3>
+<h3 align="center">A passionate Web developer</h3>
 <p align="left" > <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="anzaaleem" width=1000px height=400px /> </p>
 
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Full stack Web Development**
 
 - 👨‍💻 All of my projects are available at [(https://github.com/AnzaAleem)]
 
